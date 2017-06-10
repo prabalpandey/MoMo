@@ -1,0 +1,16 @@
+https://github.com/atulbh/Messenger3
+
+http://localhost:8090/messenger/webapi/messages/
+
+198.211.16.90
+
+
+jenkins: port 8080
+
+prabalpandey
+Goodluck@2017
+
+tomcat port : 8090
+
+
+https://github.com/prabalpandey/MoMo
